@@ -3,13 +3,14 @@
 Welcome to my repository of solutions to various LeetCode problems. These solutions are organized by problem category, with clean, optimized code, and explanations for each approach. This repository serves as a collection of coding challenges and a reference for algorithmic problem-solving techniques.
 
 ---
-
+<!--
 ## 🔗 My NeetCode Profile
 
 Check out my progress and problem-solving journey on [NeetCode](https://neetcode.io) here:
 
-[**My NeetCode Account**](https://neetcode.io/my-profile-url) <!-- Replace with your actual NeetCode profile URL -->
+[**My NeetCode Account**](https://neetcode.io/my-profile-url) -- Replace with your actual NeetCode profile URL --
 
+-->
 ---
 
 ## 📁 Repository Structure
