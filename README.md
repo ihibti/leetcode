@@ -11,7 +11,7 @@ Check out my progress and problem-solving journey on [NeetCode](https://neetcode
 [**My NeetCode Account**](https://neetcode.io/my-profile-url) -- Replace with your actual NeetCode profile URL --
 
 -->
----
+<!--
 
 ## 📁 Repository Structure
 
@@ -27,7 +27,7 @@ The solutions are categorized based on the type of problem. Each problem is name
 Each directory contains:
 - **Problem Solution File**: The solution to the problem, with clean code and time/space complexity details.
 - **Problem Description**: Either within the solution file as a comment or in a separate `.md` file with a problem explanation.
-
+-->
 ---
 
 ## 📘 Problem Categories
